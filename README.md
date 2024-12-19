@@ -1,2 +1,2 @@
 # learning
-I am learning Git and Github
+I am learning Git and Github.
